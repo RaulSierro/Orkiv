@@ -1,8 +1,8 @@
 __author__ = 'Raul'
-from  kivy.app import App
-from  kivy.uix.boxlayout import BoxLayout
-from  kivy.properties import ObjectProperty
-from  kivy.uix.anchorlayout import AnchorLayout
+from kivy.app import App
+from kivy.uix.boxlayout import BoxLayout
+from kivy.properties import ObjectProperty
+from kivy.uix.anchorlayout import AnchorLayout
 
 class Orkiv(App):
     pass
